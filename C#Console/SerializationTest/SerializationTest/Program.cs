@@ -18,12 +18,15 @@ namespace SerializationTest
         {
             id = 1;
         }
+
         [XmlIgnore]
         private int id;
-
+        [XmlAttribute()]
         public string FirstName { get; set; }
+        [XmlAttribute()]
         public string LastName { get; set; }
     }
+
     [DataContract]
     public class JsonData
     {
@@ -41,7 +44,7 @@ namespace SerializationTest
         {
 
             //BinarySerializationExample();
-            //XmlSerializationExample();
+            XmlSerializationExample();
             //JsonSerializationExample();
         }
 
@@ -51,10 +54,11 @@ namespace SerializationTest
             JsonSerialization(data);
             JsonData retData = JsonDeSerialize();
         }
+
         public static void JsonSerialization(JsonData json)
         {
             DataContractJsonSerializer jSer = new DataContractJsonSerializer(typeof(JsonData));
-           Stream sr = new FileStream("JsonData.json", FileMode.Create, FileAccess.Write,FileShare.None);
+            Stream sr = new FileStream("JsonData.json", FileMode.Create, FileAccess.Write, FileShare.None);
             jSer.WriteObject(sr, json);
             sr.Close();
         }
@@ -62,7 +66,7 @@ namespace SerializationTest
         public static JsonData JsonDeSerialize()
         {
             DataContractJsonSerializer jSer = new DataContractJsonSerializer(typeof(JsonData));
-            JsonData retData = (JsonData) jSer.ReadObject(new FileStream("JsonData.json", FileMode.Open, FileAccess.Read, FileShare.None));
+            JsonData retData = (JsonData)jSer.ReadObject(new FileStream("JsonData.json", FileMode.Open, FileAccess.Read, FileShare.None));
             return retData;
         }
 

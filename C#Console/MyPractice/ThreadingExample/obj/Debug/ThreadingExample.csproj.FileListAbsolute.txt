@@ -1,0 +1,6 @@
+C:\Development\github\Practice\C#Console\MyPractice\ThreadingExample\bin\Debug\ThreadingExample.exe.config
+C:\Development\github\Practice\C#Console\MyPractice\ThreadingExample\bin\Debug\ThreadingExample.exe
+C:\Development\github\Practice\C#Console\MyPractice\ThreadingExample\bin\Debug\ThreadingExample.pdb
+C:\Development\github\Practice\C#Console\MyPractice\ThreadingExample\obj\Debug\ThreadingExample.csprojResolveAssemblyReference.cache
+C:\Development\github\Practice\C#Console\MyPractice\ThreadingExample\obj\Debug\ThreadingExample.exe
+C:\Development\github\Practice\C#Console\MyPractice\ThreadingExample\obj\Debug\ThreadingExample.pdb
