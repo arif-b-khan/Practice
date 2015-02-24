@@ -1,0 +1,6 @@
+C:\Development\C#Console\MyPractice\LinqExamples\bin\Debug\LinqExamples.exe.config
+C:\Development\C#Console\MyPractice\LinqExamples\bin\Debug\LinqExamples.exe
+C:\Development\C#Console\MyPractice\LinqExamples\bin\Debug\LinqExamples.pdb
+C:\Development\C#Console\MyPractice\LinqExamples\obj\Debug\LinqExamples.csprojResolveAssemblyReference.cache
+C:\Development\C#Console\MyPractice\LinqExamples\obj\Debug\LinqExamples.exe
+C:\Development\C#Console\MyPractice\LinqExamples\obj\Debug\LinqExamples.pdb

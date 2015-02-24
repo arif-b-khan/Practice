@@ -1,0 +1,6 @@
+C:\Development\C#Console\SerializationTest\SerializationTest\bin\Debug\SerializationTest.exe.config
+C:\Development\C#Console\SerializationTest\SerializationTest\bin\Debug\SerializationTest.exe
+C:\Development\C#Console\SerializationTest\SerializationTest\bin\Debug\SerializationTest.pdb
+C:\Development\C#Console\SerializationTest\SerializationTest\obj\Debug\SerializationTest.csprojResolveAssemblyReference.cache
+C:\Development\C#Console\SerializationTest\SerializationTest\obj\Debug\SerializationTest.exe
+C:\Development\C#Console\SerializationTest\SerializationTest\obj\Debug\SerializationTest.pdb

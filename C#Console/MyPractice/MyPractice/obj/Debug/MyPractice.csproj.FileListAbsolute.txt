@@ -1,0 +1,1 @@
+C:\Development\C#Console\MyPractice\MyPractice\bin\Debug\MyPractice.exe.config

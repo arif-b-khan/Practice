@@ -1,0 +1,5 @@
+C:\Development\C#Console\MyPractice\InterfaceExample\bin\Debug\InterfaceExample.exe.config
+C:\Development\C#Console\MyPractice\InterfaceExample\bin\Debug\InterfaceExample.exe
+C:\Development\C#Console\MyPractice\InterfaceExample\bin\Debug\InterfaceExample.pdb
+C:\Development\C#Console\MyPractice\InterfaceExample\obj\Debug\InterfaceExample.exe
+C:\Development\C#Console\MyPractice\InterfaceExample\obj\Debug\InterfaceExample.pdb

@@ -1,0 +1,4 @@
+C:\Development\C#Console\MyPractice\AssemblyAttrExample\bin\Debug\AssemblyAttrExample.dll
+C:\Development\C#Console\MyPractice\AssemblyAttrExample\bin\Debug\AssemblyAttrExample.pdb
+C:\Development\C#Console\MyPractice\AssemblyAttrExample\obj\Debug\AssemblyAttrExample.dll
+C:\Development\C#Console\MyPractice\AssemblyAttrExample\obj\Debug\AssemblyAttrExample.pdb
