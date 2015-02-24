@@ -3,3 +3,8 @@ C:\Development\C#Console\MyPractice\InterfaceExample\bin\Debug\InterfaceExample.
 C:\Development\C#Console\MyPractice\InterfaceExample\bin\Debug\InterfaceExample.pdb
 C:\Development\C#Console\MyPractice\InterfaceExample\obj\Debug\InterfaceExample.exe
 C:\Development\C#Console\MyPractice\InterfaceExample\obj\Debug\InterfaceExample.pdb
+C:\Development\github\Practice\C#Console\MyPractice\InterfaceExample\bin\Debug\InterfaceExample.exe.config
+C:\Development\github\Practice\C#Console\MyPractice\InterfaceExample\bin\Debug\InterfaceExample.exe
+C:\Development\github\Practice\C#Console\MyPractice\InterfaceExample\bin\Debug\InterfaceExample.pdb
+C:\Development\github\Practice\C#Console\MyPractice\InterfaceExample\obj\Debug\InterfaceExample.exe
+C:\Development\github\Practice\C#Console\MyPractice\InterfaceExample\obj\Debug\InterfaceExample.pdb

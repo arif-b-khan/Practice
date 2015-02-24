@@ -4,3 +4,9 @@ C:\Development\C#Console\SerializationTest\SerializationTest\bin\Debug\Serializa
 C:\Development\C#Console\SerializationTest\SerializationTest\obj\Debug\SerializationTest.csprojResolveAssemblyReference.cache
 C:\Development\C#Console\SerializationTest\SerializationTest\obj\Debug\SerializationTest.exe
 C:\Development\C#Console\SerializationTest\SerializationTest\obj\Debug\SerializationTest.pdb
+C:\Development\github\Practice\C#Console\SerializationTest\SerializationTest\bin\Debug\SerializationTest.exe.config
+C:\Development\github\Practice\C#Console\SerializationTest\SerializationTest\bin\Debug\SerializationTest.exe
+C:\Development\github\Practice\C#Console\SerializationTest\SerializationTest\bin\Debug\SerializationTest.pdb
+C:\Development\github\Practice\C#Console\SerializationTest\SerializationTest\obj\Debug\SerializationTest.csprojResolveAssemblyReference.cache
+C:\Development\github\Practice\C#Console\SerializationTest\SerializationTest\obj\Debug\SerializationTest.exe
+C:\Development\github\Practice\C#Console\SerializationTest\SerializationTest\obj\Debug\SerializationTest.pdb

@@ -102,11 +102,11 @@ new Designations(){DesignationId= 3, Designation="AVP"},
                          select new { FName =  emp1.FirstName, Designation = newG != null ? newG.Designation : "Null" };
 
             //var result1 = empList.Join(designationList, e1 => e1.DesignationId, d1 => d1.DesignationId, (e1, d1) => { });
-            var result2 = empList.GroupJoin(designationList, e1 => e1.DesignationId, d1 => d1.DesignationId, (emp, des) => des.DefaultIfEmpty(default(Designations)).SelectMany(d => ));
+            var result2 = empList.GroupJoin(designationList, e1 => e1.DesignationId, d1 => d1.DesignationId, (emp, des) => des.Select(ds => new { Designation = ds.Designation, FName = emp.FirstName }).DefaultIfEmpty(new { Designation = "Null", FName = emp.FirstName })).SelectMany(es => es);
 
             foreach (var item in result2)
             {
-                //Console.WriteLine("FirstName: {0}, Designation: {1}", item.FName, item.Designation);
+                Console.WriteLine("FirstName: {0}, Designation: {1}", item.FName, item.Designation);
             }
 
         }

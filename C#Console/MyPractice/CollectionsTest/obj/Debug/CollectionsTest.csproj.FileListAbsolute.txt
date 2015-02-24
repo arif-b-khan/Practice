@@ -4,3 +4,9 @@ C:\Development\C#Console\MyPractice\CollectionsTest\bin\Debug\CollectionsTest.ex
 C:\Development\C#Console\MyPractice\CollectionsTest\bin\Debug\CollectionsTest.pdb
 C:\Development\C#Console\MyPractice\CollectionsTest\obj\Debug\CollectionsTest.exe
 C:\Development\C#Console\MyPractice\CollectionsTest\obj\Debug\CollectionsTest.pdb
+C:\Development\github\Practice\C#Console\MyPractice\CollectionsTest\bin\Debug\CollectionsTest.exe.config
+C:\Development\github\Practice\C#Console\MyPractice\CollectionsTest\bin\Debug\CollectionsTest.exe
+C:\Development\github\Practice\C#Console\MyPractice\CollectionsTest\bin\Debug\CollectionsTest.pdb
+C:\Development\github\Practice\C#Console\MyPractice\CollectionsTest\obj\Debug\CollectionsTest.csprojResolveAssemblyReference.cache
+C:\Development\github\Practice\C#Console\MyPractice\CollectionsTest\obj\Debug\CollectionsTest.exe
+C:\Development\github\Practice\C#Console\MyPractice\CollectionsTest\obj\Debug\CollectionsTest.pdb

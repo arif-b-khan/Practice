@@ -4,3 +4,9 @@ C:\Development\C#Console\MyPractice\ConcurrentDic\bin\Debug\ConcurrentDic.exe
 C:\Development\C#Console\MyPractice\ConcurrentDic\bin\Debug\ConcurrentDic.pdb
 C:\Development\C#Console\MyPractice\ConcurrentDic\obj\Debug\ConcurrentDic.exe
 C:\Development\C#Console\MyPractice\ConcurrentDic\obj\Debug\ConcurrentDic.pdb
+C:\Development\github\Practice\C#Console\MyPractice\ConcurrentDic\bin\Debug\ConcurrentDic.exe.config
+C:\Development\github\Practice\C#Console\MyPractice\ConcurrentDic\bin\Debug\ConcurrentDic.exe
+C:\Development\github\Practice\C#Console\MyPractice\ConcurrentDic\bin\Debug\ConcurrentDic.pdb
+C:\Development\github\Practice\C#Console\MyPractice\ConcurrentDic\obj\Debug\ConcurrentDic.csprojResolveAssemblyReference.cache
+C:\Development\github\Practice\C#Console\MyPractice\ConcurrentDic\obj\Debug\ConcurrentDic.exe
+C:\Development\github\Practice\C#Console\MyPractice\ConcurrentDic\obj\Debug\ConcurrentDic.pdb
