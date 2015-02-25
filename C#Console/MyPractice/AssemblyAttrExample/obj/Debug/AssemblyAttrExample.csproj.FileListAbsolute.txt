@@ -6,3 +6,4 @@ C:\Development\github\Practice\C#Console\MyPractice\AssemblyAttrExample\bin\Debu
 C:\Development\github\Practice\C#Console\MyPractice\AssemblyAttrExample\bin\Debug\AssemblyAttrExample.pdb
 C:\Development\github\Practice\C#Console\MyPractice\AssemblyAttrExample\obj\Debug\AssemblyAttrExample.dll
 C:\Development\github\Practice\C#Console\MyPractice\AssemblyAttrExample\obj\Debug\AssemblyAttrExample.pdb
+C:\Development\github\Practice\C#Console\MyPractice\AssemblyAttrExample\obj\Debug\AssemblyAttrExample.csprojResolveAssemblyReference.cache

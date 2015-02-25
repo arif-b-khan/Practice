@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqExamples", "LinqExample
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadingExample", "ThreadingExample\ThreadingExample.csproj", "{D18BD8E0-AB9A-46C6-9370-AD8CA735AF56}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SynchronizationExm", "SynchronizationExm\SynchronizationExm.csproj", "{30C7D535-C86D-45D5-9076-AE6BE0216F95}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -49,6 +51,10 @@ Global
 		{D18BD8E0-AB9A-46C6-9370-AD8CA735AF56}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D18BD8E0-AB9A-46C6-9370-AD8CA735AF56}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D18BD8E0-AB9A-46C6-9370-AD8CA735AF56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30C7D535-C86D-45D5-9076-AE6BE0216F95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30C7D535-C86D-45D5-9076-AE6BE0216F95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30C7D535-C86D-45D5-9076-AE6BE0216F95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30C7D535-C86D-45D5-9076-AE6BE0216F95}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -8,3 +8,4 @@ C:\Development\github\Practice\C#Console\MyPractice\InterfaceExample\bin\Debug\I
 C:\Development\github\Practice\C#Console\MyPractice\InterfaceExample\bin\Debug\InterfaceExample.pdb
 C:\Development\github\Practice\C#Console\MyPractice\InterfaceExample\obj\Debug\InterfaceExample.exe
 C:\Development\github\Practice\C#Console\MyPractice\InterfaceExample\obj\Debug\InterfaceExample.pdb
+C:\Development\github\Practice\C#Console\MyPractice\InterfaceExample\obj\Debug\InterfaceExample.csprojResolveAssemblyReference.cache

@@ -4,3 +4,8 @@ C:\Development\github\Practice\C#Console\MyPractice\ThreadingExample\bin\Debug\T
 C:\Development\github\Practice\C#Console\MyPractice\ThreadingExample\obj\Debug\ThreadingExample.csprojResolveAssemblyReference.cache
 C:\Development\github\Practice\C#Console\MyPractice\ThreadingExample\obj\Debug\ThreadingExample.exe
 C:\Development\github\Practice\C#Console\MyPractice\ThreadingExample\obj\Debug\ThreadingExample.pdb
+C:\Development\github\Practice\C#Console\MyPractice\ThreadingExample\obj\Debug\ThreadingExample.csproj.App.config
+C:\Development\github\Practice\C#Console\MyPractice\ThreadingExample\bin\Debug\System.Net.Http.Extensions.dll
+C:\Development\github\Practice\C#Console\MyPractice\ThreadingExample\bin\Debug\System.Net.Http.Primitives.dll
+C:\Development\github\Practice\C#Console\MyPractice\ThreadingExample\bin\Debug\System.Net.Http.Extensions.xml
+C:\Development\github\Practice\C#Console\MyPractice\ThreadingExample\bin\Debug\System.Net.Http.Primitives.xml
