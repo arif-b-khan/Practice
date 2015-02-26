@@ -1,0 +1,5 @@
+C:\Development\github\Practice\C#Console\MyPractice\DelegatesAndEvents\bin\Debug\DelegatesAndEvents.exe.config
+C:\Development\github\Practice\C#Console\MyPractice\DelegatesAndEvents\bin\Debug\DelegatesAndEvents.exe
+C:\Development\github\Practice\C#Console\MyPractice\DelegatesAndEvents\bin\Debug\DelegatesAndEvents.pdb
+C:\Development\github\Practice\C#Console\MyPractice\DelegatesAndEvents\obj\Debug\DelegatesAndEvents.exe
+C:\Development\github\Practice\C#Console\MyPractice\DelegatesAndEvents\obj\Debug\DelegatesAndEvents.pdb

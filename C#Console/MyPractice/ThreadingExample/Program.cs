@@ -44,7 +44,7 @@ namespace ThreadingExample
             //EnumerableParallel();
             //ConcurrentBlockingCollectionExample();
             //ConcurrentBagCollectionExample();
-            CancellationOfLongRunningTask();
+            //CancellationOfLongRunningTask();
         }
 
         private static void CancellationOfLongRunningTask()
@@ -60,7 +60,8 @@ namespace ThreadingExample
                     if (token.IsCancellationRequested)
                     {
                         Console.WriteLine("Cannecllation was requested");
-                        throw new OperationCanceledException("Operation Cancelled exception");
+                        //throw new OperationCanceledException("Operation Cancelled exception");
+                        token.ThrowIfCancellationRequested();
                     }
                 }
 

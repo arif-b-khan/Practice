@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadingExample", "Threadi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SynchronizationExm", "SynchronizationExm\SynchronizationExm.csproj", "{30C7D535-C86D-45D5-9076-AE6BE0216F95}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegatesAndEvents", "DelegatesAndEvents\DelegatesAndEvents.csproj", "{2CBE0B04-0627-44E5-9DC9-4BEBB4CC7577}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -55,6 +57,10 @@ Global
 		{30C7D535-C86D-45D5-9076-AE6BE0216F95}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{30C7D535-C86D-45D5-9076-AE6BE0216F95}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{30C7D535-C86D-45D5-9076-AE6BE0216F95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CBE0B04-0627-44E5-9DC9-4BEBB4CC7577}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CBE0B04-0627-44E5-9DC9-4BEBB4CC7577}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CBE0B04-0627-44E5-9DC9-4BEBB4CC7577}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CBE0B04-0627-44E5-9DC9-4BEBB4CC7577}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
