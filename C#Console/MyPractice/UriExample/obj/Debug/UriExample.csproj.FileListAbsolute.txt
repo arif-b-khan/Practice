@@ -1,0 +1,5 @@
+C:\Development\github\Practice\C#Console\MyPractice\UriExample\bin\Debug\UriExample.exe.config
+C:\Development\github\Practice\C#Console\MyPractice\UriExample\bin\Debug\UriExample.exe
+C:\Development\github\Practice\C#Console\MyPractice\UriExample\bin\Debug\UriExample.pdb
+C:\Development\github\Practice\C#Console\MyPractice\UriExample\obj\Debug\UriExample.exe
+C:\Development\github\Practice\C#Console\MyPractice\UriExample\obj\Debug\UriExample.pdb

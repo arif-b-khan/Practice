@@ -19,6 +19,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SynchronizationExm", "Synch
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegatesAndEvents", "DelegatesAndEvents\DelegatesAndEvents.csproj", "{2CBE0B04-0627-44E5-9DC9-4BEBB4CC7577}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UriExample", "UriExample\UriExample.csproj", "{5CA149BA-DDB9-4E53-8858-C037629C85EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FreeFlowExamples", "FreeFlowExamples\FreeFlowExamples.csproj", "{553D9462-DB7F-410A-849B-023AFF5AADC5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -61,6 +65,14 @@ Global
 		{2CBE0B04-0627-44E5-9DC9-4BEBB4CC7577}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2CBE0B04-0627-44E5-9DC9-4BEBB4CC7577}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2CBE0B04-0627-44E5-9DC9-4BEBB4CC7577}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CA149BA-DDB9-4E53-8858-C037629C85EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CA149BA-DDB9-4E53-8858-C037629C85EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CA149BA-DDB9-4E53-8858-C037629C85EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CA149BA-DDB9-4E53-8858-C037629C85EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{553D9462-DB7F-410A-849B-023AFF5AADC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{553D9462-DB7F-410A-849B-023AFF5AADC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{553D9462-DB7F-410A-849B-023AFF5AADC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{553D9462-DB7F-410A-849B-023AFF5AADC5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

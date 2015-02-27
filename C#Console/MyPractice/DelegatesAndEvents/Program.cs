@@ -17,27 +17,29 @@ namespace DelegatesAndEvents
         private static void MulticastDelegateExample()
         {
             Calculation += (n1, n2) => n1 + n2;
-            Calculation += (n1, n2) => { 
-                throw new InvalidOperationException("Invalid operation"); 
-                return 10; 
+            Calculation += (n1, n2) =>
+            {
+                throw new InvalidOperationException("Invalid operation");
+                return 10;
             };
             Calculation += (n1, n2) => n1 - n2;
             Calculation += (n1, n2) => n1 * n2;
             Calculation += (n1, n2) => n1 / n2;
             List<Exception> listException = new List<Exception>();
-            foreach (Delegate del in Calculation.GetInvocationList())
+
+            Parallel.ForEach(Calculation.GetInvocationList(), d =>
             {
                 try
                 {
-                    double result = (double)del.DynamicInvoke(10, 10);
+                    double result = (double)d.DynamicInvoke(10, 10);
                     Console.WriteLine(result);
                 }
                 catch (Exception ex)
                 {
                     listException.Add(ex);
                 }
-            }
 
+            });
         }
     }
 }

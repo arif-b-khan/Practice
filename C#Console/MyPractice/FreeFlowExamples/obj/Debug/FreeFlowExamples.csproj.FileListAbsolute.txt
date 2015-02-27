@@ -1,0 +1,5 @@
+C:\Development\github\Practice\C#Console\MyPractice\FreeFlowExamples\bin\Debug\FreeFlowExamples.exe.config
+C:\Development\github\Practice\C#Console\MyPractice\FreeFlowExamples\bin\Debug\FreeFlowExamples.exe
+C:\Development\github\Practice\C#Console\MyPractice\FreeFlowExamples\bin\Debug\FreeFlowExamples.pdb
+C:\Development\github\Practice\C#Console\MyPractice\FreeFlowExamples\obj\Debug\FreeFlowExamples.exe
+C:\Development\github\Practice\C#Console\MyPractice\FreeFlowExamples\obj\Debug\FreeFlowExamples.pdb
