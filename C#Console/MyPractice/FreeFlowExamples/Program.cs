@@ -15,7 +15,7 @@ namespace FreeFlowExamples
         }
         public Base(string name)
         {
-            Name = name;  
+            Name = name;
         }
         public virtual void Execute()
         {
@@ -29,8 +29,9 @@ namespace FreeFlowExamples
 
     class Derived : Base
     {
-        
+
         public Derived(string name)
+            : base(name)
         {
 
         }
@@ -60,31 +61,39 @@ namespace FreeFlowExamples
 
     class B : A
     {
-        public B(string n) : base("")
+        public B(string n)
+            : base("")
         {
 
         }
     }
 
-    class C : B
+    class C : B , IFormattable
     {
-        public C(string n) : base("")
+        public C(string n)
+            : base("")
         {
 
+        }
+
+        public string ToString(string format, IFormatProvider formatProvider)
+        {
+            return "";
         }
     }
 
     class Program
     {
         public static readonly Base MYBASE = new Base("Orignal");
-        
+
         static void Main(string[] args)
         {
-           Base b1 =  Program.MYBASE;
-           Console.WriteLine(b1.Name);
-           b1.Name = "Fake";
-           Console.WriteLine(b1.Name);
+            //Base b1 =  Program.MYBASE;
+            //Console.WriteLine(b1.Name);
+            //b1.Name = "Fake";
+            //Console.WriteLine(b1.Name);
+            
         }
-
+        
     }
 }
