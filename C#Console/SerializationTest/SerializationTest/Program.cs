@@ -14,17 +14,9 @@ namespace SerializationTest
     [Serializable]
     public class Person
     {
-        public Person()
-        {
-            id = 1;
-        }
-
-        [XmlIgnore]
-        private int id;
-        [XmlAttribute()]
         public string FirstName { get; set; }
-        [XmlAttribute()]
         public string LastName { get; set; }
+        public int Age { get; set; }
     }
 
     [DataContract]
@@ -36,16 +28,78 @@ namespace SerializationTest
         [DataMember]
         public string LastName { get; set; }
     }
+    [Serializable]
+    public class Order
+    {
+        [XmlAttribute]
+        public int ID { get; set; }
+        [XmlIgnore]
+        public bool IsDirty { get; set; }
+        [XmlArray("Lines")]
+        [XmlArrayItem("OrderLines")]
+        public List<OrderLine> OrderLines { get; set; }
+    }
 
+    [Serializable]
+    public class VIPOrder : Order
+    {
+        public string Description { get; set; }
+    }
+
+    [Serializable]
+    public class OrderLine
+    {
+        [XmlAttribute]
+        public int ID { get; set; }
+        [XmlAttribute]
+        public int Amount { get; set; }
+        [XmlElement("OrderedProduct")]
+        public Product Product { get; set; }
+    }
+    [Serializable]
+    public class Product
+    {
+        [XmlAttribute]
+        public int ID { get; set; }
+        public decimal Price { get; set; }
+        public string Description { get; set; }
+    }
 
     class Program
     {
+        private static Order CreateOrder()
+        {
+            Product p1 = new Product { ID = 1, Description = "p2", Price = 9 };
+            Product p2 = new Product { ID = 2, Description = "p3", Price = 6 };
+            Order order = new VIPOrder
+            {
+                ID = 4,
+                Description = "Order for John Doe. Use the nice giftwrap",
+                OrderLines = new List<OrderLine>
+                {
+                new OrderLine { ID = 5, Amount = 1, Product = p1},
+                new OrderLine { ID = 6 ,Amount = 10, Product = p2},
+                }
+            };
+            return order;
+        }
         static void Main(string[] args)
         {
 
             //BinarySerializationExample();
-            XmlSerializationExample();
+            //XmlSerializationExample();
             //JsonSerializationExample();
+            HeirarchicalSerializationExample();
+        }
+
+        private static void HeirarchicalSerializationExample()
+        {
+            Order order = CreateOrder();
+            var xmlSerializer = new XmlSerializer(typeof(Order), new Type[]{typeof(VIPOrder)});
+            var writer = new StringWriter();
+            xmlSerializer.Serialize(writer, order);
+           string result =  writer.ToString();
+           Console.WriteLine(result);
         }
 
         public static void JsonSerializationExample()

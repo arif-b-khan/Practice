@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModelSample", "ModelSample\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegexExample", "RegexExample\RegexExample.csproj", "{37728C2B-5964-42A3-8FEA-A9BAF30DA66E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExplicitImplicitOperatorExample", "ExplicitImplicitOperatorExample\ExplicitImplicitOperatorExample.csproj", "{F96CBD96-5002-4CC4-A119-E31B64ED872A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -91,6 +93,10 @@ Global
 		{37728C2B-5964-42A3-8FEA-A9BAF30DA66E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{37728C2B-5964-42A3-8FEA-A9BAF30DA66E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{37728C2B-5964-42A3-8FEA-A9BAF30DA66E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F96CBD96-5002-4CC4-A119-E31B64ED872A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F96CBD96-5002-4CC4-A119-E31B64ED872A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F96CBD96-5002-4CC4-A119-E31B64ED872A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F96CBD96-5002-4CC4-A119-E31B64ED872A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

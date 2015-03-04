@@ -1,0 +1,6 @@
+C:\Development\github\Practice\C#Console\MyPractice\ExplicitImplicitOperatorExample\bin\Debug\ExplicitImplicitOperatorExample.exe.config
+C:\Development\github\Practice\C#Console\MyPractice\ExplicitImplicitOperatorExample\obj\Debug\ExplicitImplicitOperatorExample.csprojResolveAssemblyReference.cache
+C:\Development\github\Practice\C#Console\MyPractice\ExplicitImplicitOperatorExample\bin\Debug\ExplicitImplicitOperatorExample.exe
+C:\Development\github\Practice\C#Console\MyPractice\ExplicitImplicitOperatorExample\bin\Debug\ExplicitImplicitOperatorExample.pdb
+C:\Development\github\Practice\C#Console\MyPractice\ExplicitImplicitOperatorExample\obj\Debug\ExplicitImplicitOperatorExample.exe
+C:\Development\github\Practice\C#Console\MyPractice\ExplicitImplicitOperatorExample\obj\Debug\ExplicitImplicitOperatorExample.pdb
