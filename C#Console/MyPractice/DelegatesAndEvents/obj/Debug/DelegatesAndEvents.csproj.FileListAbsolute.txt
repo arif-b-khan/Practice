@@ -3,3 +3,4 @@ C:\Development\github\Practice\C#Console\MyPractice\DelegatesAndEvents\bin\Debug
 C:\Development\github\Practice\C#Console\MyPractice\DelegatesAndEvents\bin\Debug\DelegatesAndEvents.pdb
 C:\Development\github\Practice\C#Console\MyPractice\DelegatesAndEvents\obj\Debug\DelegatesAndEvents.exe
 C:\Development\github\Practice\C#Console\MyPractice\DelegatesAndEvents\obj\Debug\DelegatesAndEvents.pdb
+C:\Development\github\Practice\C#Console\MyPractice\DelegatesAndEvents\obj\Debug\DelegatesAndEvents.csprojResolveAssemblyReference.cache

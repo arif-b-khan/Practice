@@ -1,0 +1,5 @@
+C:\Development\github\Practice\C#Console\MyPractice\ModelSample\bin\Debug\ModelSample.dll
+C:\Development\github\Practice\C#Console\MyPractice\ModelSample\bin\Debug\ModelSample.pdb
+C:\Development\github\Practice\C#Console\MyPractice\ModelSample\obj\Debug\ModelSample.dll
+C:\Development\github\Practice\C#Console\MyPractice\ModelSample\obj\Debug\ModelSample.pdb
+C:\Development\github\Practice\C#Console\MyPractice\ModelSample\obj\Debug\ModelSample.csprojResolveAssemblyReference.cache

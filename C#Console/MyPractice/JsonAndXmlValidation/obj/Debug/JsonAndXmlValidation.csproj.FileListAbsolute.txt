@@ -1,0 +1,10 @@
+C:\Development\github\Practice\C#Console\MyPractice\JsonAndXmlValidation\bin\Debug\JsonAndXmlValidation.exe.config
+C:\Development\github\Practice\C#Console\MyPractice\JsonAndXmlValidation\bin\Debug\Person.xml
+C:\Development\github\Practice\C#Console\MyPractice\JsonAndXmlValidation\bin\Debug\Person.xsd
+C:\Development\github\Practice\C#Console\MyPractice\JsonAndXmlValidation\bin\Debug\JsonAndXmlValidation.exe
+C:\Development\github\Practice\C#Console\MyPractice\JsonAndXmlValidation\bin\Debug\JsonAndXmlValidation.pdb
+C:\Development\github\Practice\C#Console\MyPractice\JsonAndXmlValidation\obj\Debug\JsonAndXmlValidation.csprojResolveAssemblyReference.cache
+C:\Development\github\Practice\C#Console\MyPractice\JsonAndXmlValidation\obj\Debug\JsonAndXmlValidation.exe
+C:\Development\github\Practice\C#Console\MyPractice\JsonAndXmlValidation\obj\Debug\JsonAndXmlValidation.pdb
+C:\Development\github\Practice\C#Console\MyPractice\JsonAndXmlValidation\bin\Debug\ModelSample.dll
+C:\Development\github\Practice\C#Console\MyPractice\JsonAndXmlValidation\bin\Debug\ModelSample.pdb

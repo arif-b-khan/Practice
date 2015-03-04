@@ -1,0 +1,6 @@
+C:\Development\github\Practice\C#Console\MyPractice\RegexExample\bin\Debug\RegexExample.exe.config
+C:\Development\github\Practice\C#Console\MyPractice\RegexExample\bin\Debug\RegexExample.exe
+C:\Development\github\Practice\C#Console\MyPractice\RegexExample\bin\Debug\RegexExample.pdb
+C:\Development\github\Practice\C#Console\MyPractice\RegexExample\obj\Debug\RegexExample.csprojResolveAssemblyReference.cache
+C:\Development\github\Practice\C#Console\MyPractice\RegexExample\obj\Debug\RegexExample.exe
+C:\Development\github\Practice\C#Console\MyPractice\RegexExample\obj\Debug\RegexExample.pdb
