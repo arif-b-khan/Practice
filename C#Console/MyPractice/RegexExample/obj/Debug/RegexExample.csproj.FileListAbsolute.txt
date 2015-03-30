@@ -4,3 +4,9 @@ C:\Development\github\Practice\C#Console\MyPractice\RegexExample\bin\Debug\Regex
 C:\Development\github\Practice\C#Console\MyPractice\RegexExample\obj\Debug\RegexExample.csprojResolveAssemblyReference.cache
 C:\Development\github\Practice\C#Console\MyPractice\RegexExample\obj\Debug\RegexExample.exe
 C:\Development\github\Practice\C#Console\MyPractice\RegexExample\obj\Debug\RegexExample.pdb
+D:\Development\Github\practice\C#Console\MyPractice\RegexExample\bin\Debug\RegexExample.exe.config
+D:\Development\Github\practice\C#Console\MyPractice\RegexExample\bin\Debug\RegexExample.exe
+D:\Development\Github\practice\C#Console\MyPractice\RegexExample\bin\Debug\RegexExample.pdb
+D:\Development\Github\practice\C#Console\MyPractice\RegexExample\obj\Debug\RegexExample.csprojResolveAssemblyReference.cache
+D:\Development\Github\practice\C#Console\MyPractice\RegexExample\obj\Debug\RegexExample.exe
+D:\Development\Github\practice\C#Console\MyPractice\RegexExample\obj\Debug\RegexExample.pdb

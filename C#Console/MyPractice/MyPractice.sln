@@ -31,6 +31,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegexExample", "RegexExampl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExplicitImplicitOperatorExample", "ExplicitImplicitOperatorExample\ExplicitImplicitOperatorExample.csproj", "{F96CBD96-5002-4CC4-A119-E31B64ED872A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoMapperExample", "AutoMapperExample\AutoMapperExample.csproj", "{90BE736B-1944-4768-ADC6-0C7F806D07C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityContainerExample", "UnityContainerExample\UnityContainerExample.csproj", "{F1DF6DD4-CD3D-44DF-A8FA-88C5AD4A4CFF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UnityContainer", "UnityContainer", "{BC55BC6C-1012-40F5-8A0E-D5DC036A9318}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -97,8 +103,22 @@ Global
 		{F96CBD96-5002-4CC4-A119-E31B64ED872A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F96CBD96-5002-4CC4-A119-E31B64ED872A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F96CBD96-5002-4CC4-A119-E31B64ED872A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90BE736B-1944-4768-ADC6-0C7F806D07C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90BE736B-1944-4768-ADC6-0C7F806D07C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90BE736B-1944-4768-ADC6-0C7F806D07C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90BE736B-1944-4768-ADC6-0C7F806D07C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1DF6DD4-CD3D-44DF-A8FA-88C5AD4A4CFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1DF6DD4-CD3D-44DF-A8FA-88C5AD4A4CFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1DF6DD4-CD3D-44DF-A8FA-88C5AD4A4CFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1DF6DD4-CD3D-44DF-A8FA-88C5AD4A4CFF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F1DF6DD4-CD3D-44DF-A8FA-88C5AD4A4CFF} = {BC55BC6C-1012-40F5-8A0E-D5DC036A9318}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		EnterpriseLibraryConfigurationToolBinariesPathV6 = packages\EnterpriseLibrary.Common.6.0.1304.0\lib\NET45
 	EndGlobalSection
 EndGlobal

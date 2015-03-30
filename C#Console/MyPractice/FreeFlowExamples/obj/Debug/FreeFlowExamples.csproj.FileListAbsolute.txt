@@ -4,3 +4,9 @@ C:\Development\github\Practice\C#Console\MyPractice\FreeFlowExamples\bin\Debug\F
 C:\Development\github\Practice\C#Console\MyPractice\FreeFlowExamples\obj\Debug\FreeFlowExamples.exe
 C:\Development\github\Practice\C#Console\MyPractice\FreeFlowExamples\obj\Debug\FreeFlowExamples.pdb
 C:\Development\Github\practice\C#Console\MyPractice\FreeFlowExamples\obj\Debug\FreeFlowExamples.csprojResolveAssemblyReference.cache
+D:\Development\Github\practice\C#Console\MyPractice\FreeFlowExamples\bin\Debug\FreeFlowExamples.exe.config
+D:\Development\Github\practice\C#Console\MyPractice\FreeFlowExamples\bin\Debug\FreeFlowExamples.exe
+D:\Development\Github\practice\C#Console\MyPractice\FreeFlowExamples\bin\Debug\FreeFlowExamples.pdb
+D:\Development\Github\practice\C#Console\MyPractice\FreeFlowExamples\obj\Debug\FreeFlowExamples.csprojResolveAssemblyReference.cache
+D:\Development\Github\practice\C#Console\MyPractice\FreeFlowExamples\obj\Debug\FreeFlowExamples.exe
+D:\Development\Github\practice\C#Console\MyPractice\FreeFlowExamples\obj\Debug\FreeFlowExamples.pdb

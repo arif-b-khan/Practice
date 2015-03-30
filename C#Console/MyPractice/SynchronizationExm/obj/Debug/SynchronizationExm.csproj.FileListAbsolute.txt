@@ -7,3 +7,12 @@ C:\Development\github\Practice\C#Console\MyPractice\SynchronizationExm\bin\Debug
 C:\Development\github\Practice\C#Console\MyPractice\SynchronizationExm\bin\Debug\SynchronizationExm.pdb
 C:\Development\github\Practice\C#Console\MyPractice\SynchronizationExm\obj\Debug\SynchronizationExm.exe
 C:\Development\github\Practice\C#Console\MyPractice\SynchronizationExm\obj\Debug\SynchronizationExm.pdb
+D:\Development\Github\practice\C#Console\MyPractice\SynchronizationExm\bin\Debug\SynchronizationExm.exe.config
+D:\Development\Github\practice\C#Console\MyPractice\SynchronizationExm\bin\Debug\SynchronizationExm.exe
+D:\Development\Github\practice\C#Console\MyPractice\SynchronizationExm\bin\Debug\SynchronizationExm.pdb
+D:\Development\Github\practice\C#Console\MyPractice\SynchronizationExm\obj\Debug\SynchronizationExm.csprojResolveAssemblyReference.cache
+D:\Development\Github\practice\C#Console\MyPractice\SynchronizationExm\obj\Debug\SynchronizationExm.Form1.resources
+D:\Development\Github\practice\C#Console\MyPractice\SynchronizationExm\obj\Debug\SynchronizationExm.Properties.Resources.resources
+D:\Development\Github\practice\C#Console\MyPractice\SynchronizationExm\obj\Debug\SynchronizationExm.csproj.GenerateResource.Cache
+D:\Development\Github\practice\C#Console\MyPractice\SynchronizationExm\obj\Debug\SynchronizationExm.exe
+D:\Development\Github\practice\C#Console\MyPractice\SynchronizationExm\obj\Debug\SynchronizationExm.pdb

@@ -8,3 +8,13 @@ C:\Development\github\Practice\C#Console\MyPractice\JsonAndXmlValidation\obj\Deb
 C:\Development\github\Practice\C#Console\MyPractice\JsonAndXmlValidation\obj\Debug\JsonAndXmlValidation.pdb
 C:\Development\github\Practice\C#Console\MyPractice\JsonAndXmlValidation\bin\Debug\ModelSample.dll
 C:\Development\github\Practice\C#Console\MyPractice\JsonAndXmlValidation\bin\Debug\ModelSample.pdb
+D:\Development\Github\practice\C#Console\MyPractice\JsonAndXmlValidation\bin\Debug\Person.xml
+D:\Development\Github\practice\C#Console\MyPractice\JsonAndXmlValidation\bin\Debug\Person.xsd
+D:\Development\Github\practice\C#Console\MyPractice\JsonAndXmlValidation\bin\Debug\JsonAndXmlValidation.exe.config
+D:\Development\Github\practice\C#Console\MyPractice\JsonAndXmlValidation\bin\Debug\JsonAndXmlValidation.exe
+D:\Development\Github\practice\C#Console\MyPractice\JsonAndXmlValidation\bin\Debug\JsonAndXmlValidation.pdb
+D:\Development\Github\practice\C#Console\MyPractice\JsonAndXmlValidation\bin\Debug\ModelSample.dll
+D:\Development\Github\practice\C#Console\MyPractice\JsonAndXmlValidation\bin\Debug\ModelSample.pdb
+D:\Development\Github\practice\C#Console\MyPractice\JsonAndXmlValidation\obj\Debug\JsonAndXmlValidation.csprojResolveAssemblyReference.cache
+D:\Development\Github\practice\C#Console\MyPractice\JsonAndXmlValidation\obj\Debug\JsonAndXmlValidation.exe
+D:\Development\Github\practice\C#Console\MyPractice\JsonAndXmlValidation\obj\Debug\JsonAndXmlValidation.pdb

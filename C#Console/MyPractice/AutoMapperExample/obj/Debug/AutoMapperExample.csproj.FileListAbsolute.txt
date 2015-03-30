@@ -1,0 +1,11 @@
+D:\Development\Github\practice\C#Console\MyPractice\AutoMapperExample\bin\Debug\AutoMapperExample.exe.config
+D:\Development\Github\practice\C#Console\MyPractice\AutoMapperExample\obj\Debug\AutoMapperExample.csprojResolveAssemblyReference.cache
+D:\Development\Github\practice\C#Console\MyPractice\AutoMapperExample\bin\Debug\AutoMapper.Net4.dll
+D:\Development\Github\practice\C#Console\MyPractice\AutoMapperExample\bin\Debug\AutoMapperExample.exe
+D:\Development\Github\practice\C#Console\MyPractice\AutoMapperExample\bin\Debug\AutoMapperExample.pdb
+D:\Development\Github\practice\C#Console\MyPractice\AutoMapperExample\bin\Debug\AutoMapper.dll
+D:\Development\Github\practice\C#Console\MyPractice\AutoMapperExample\bin\Debug\AutoMapper.pdb
+D:\Development\Github\practice\C#Console\MyPractice\AutoMapperExample\bin\Debug\AutoMapper.xml
+D:\Development\Github\practice\C#Console\MyPractice\AutoMapperExample\bin\Debug\AutoMapper.Net4.pdb
+D:\Development\Github\practice\C#Console\MyPractice\AutoMapperExample\obj\Debug\AutoMapperExample.exe
+D:\Development\Github\practice\C#Console\MyPractice\AutoMapperExample\obj\Debug\AutoMapperExample.pdb

@@ -4,3 +4,9 @@ C:\Development\github\Practice\C#Console\MyPractice\ExplicitImplicitOperatorExam
 C:\Development\github\Practice\C#Console\MyPractice\ExplicitImplicitOperatorExample\bin\Debug\ExplicitImplicitOperatorExample.pdb
 C:\Development\github\Practice\C#Console\MyPractice\ExplicitImplicitOperatorExample\obj\Debug\ExplicitImplicitOperatorExample.exe
 C:\Development\github\Practice\C#Console\MyPractice\ExplicitImplicitOperatorExample\obj\Debug\ExplicitImplicitOperatorExample.pdb
+D:\Development\Github\practice\C#Console\MyPractice\ExplicitImplicitOperatorExample\bin\Debug\ExplicitImplicitOperatorExample.exe.config
+D:\Development\Github\practice\C#Console\MyPractice\ExplicitImplicitOperatorExample\obj\Debug\ExplicitImplicitOperatorExample.exe
+D:\Development\Github\practice\C#Console\MyPractice\ExplicitImplicitOperatorExample\obj\Debug\ExplicitImplicitOperatorExample.pdb
+D:\Development\Github\practice\C#Console\MyPractice\ExplicitImplicitOperatorExample\bin\Debug\ExplicitImplicitOperatorExample.exe
+D:\Development\Github\practice\C#Console\MyPractice\ExplicitImplicitOperatorExample\bin\Debug\ExplicitImplicitOperatorExample.pdb
+D:\Development\Github\practice\C#Console\MyPractice\ExplicitImplicitOperatorExample\obj\Debug\ExplicitImplicitOperatorExample.csprojResolveAssemblyReference.cache

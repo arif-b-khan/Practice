@@ -3,3 +3,8 @@ C:\Development\github\Practice\C#Console\MyPractice\ModelSample\bin\Debug\ModelS
 C:\Development\github\Practice\C#Console\MyPractice\ModelSample\obj\Debug\ModelSample.dll
 C:\Development\github\Practice\C#Console\MyPractice\ModelSample\obj\Debug\ModelSample.pdb
 C:\Development\github\Practice\C#Console\MyPractice\ModelSample\obj\Debug\ModelSample.csprojResolveAssemblyReference.cache
+D:\Development\Github\practice\C#Console\MyPractice\ModelSample\bin\Debug\ModelSample.dll
+D:\Development\Github\practice\C#Console\MyPractice\ModelSample\bin\Debug\ModelSample.pdb
+D:\Development\Github\practice\C#Console\MyPractice\ModelSample\obj\Debug\ModelSample.csprojResolveAssemblyReference.cache
+D:\Development\Github\practice\C#Console\MyPractice\ModelSample\obj\Debug\ModelSample.dll
+D:\Development\Github\practice\C#Console\MyPractice\ModelSample\obj\Debug\ModelSample.pdb

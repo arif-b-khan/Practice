@@ -9,3 +9,9 @@ C:\Development\github\Practice\C#Console\MyPractice\InterfaceExample\bin\Debug\I
 C:\Development\github\Practice\C#Console\MyPractice\InterfaceExample\obj\Debug\InterfaceExample.exe
 C:\Development\github\Practice\C#Console\MyPractice\InterfaceExample\obj\Debug\InterfaceExample.pdb
 C:\Development\github\Practice\C#Console\MyPractice\InterfaceExample\obj\Debug\InterfaceExample.csprojResolveAssemblyReference.cache
+D:\Development\Github\practice\C#Console\MyPractice\InterfaceExample\bin\Debug\InterfaceExample.exe.config
+D:\Development\Github\practice\C#Console\MyPractice\InterfaceExample\bin\Debug\InterfaceExample.exe
+D:\Development\Github\practice\C#Console\MyPractice\InterfaceExample\bin\Debug\InterfaceExample.pdb
+D:\Development\Github\practice\C#Console\MyPractice\InterfaceExample\obj\Debug\InterfaceExample.csprojResolveAssemblyReference.cache
+D:\Development\Github\practice\C#Console\MyPractice\InterfaceExample\obj\Debug\InterfaceExample.exe
+D:\Development\Github\practice\C#Console\MyPractice\InterfaceExample\obj\Debug\InterfaceExample.pdb

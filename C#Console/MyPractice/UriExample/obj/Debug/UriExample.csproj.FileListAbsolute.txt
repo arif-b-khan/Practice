@@ -4,3 +4,9 @@ C:\Development\github\Practice\C#Console\MyPractice\UriExample\bin\Debug\UriExam
 C:\Development\github\Practice\C#Console\MyPractice\UriExample\obj\Debug\UriExample.exe
 C:\Development\github\Practice\C#Console\MyPractice\UriExample\obj\Debug\UriExample.pdb
 C:\Development\github\Practice\C#Console\MyPractice\UriExample\obj\Debug\UriExample.csprojResolveAssemblyReference.cache
+D:\Development\Github\practice\C#Console\MyPractice\UriExample\bin\Debug\UriExample.exe.config
+D:\Development\Github\practice\C#Console\MyPractice\UriExample\bin\Debug\UriExample.exe
+D:\Development\Github\practice\C#Console\MyPractice\UriExample\bin\Debug\UriExample.pdb
+D:\Development\Github\practice\C#Console\MyPractice\UriExample\obj\Debug\UriExample.csprojResolveAssemblyReference.cache
+D:\Development\Github\practice\C#Console\MyPractice\UriExample\obj\Debug\UriExample.exe
+D:\Development\Github\practice\C#Console\MyPractice\UriExample\obj\Debug\UriExample.pdb
