@@ -1,0 +1,8 @@
+C:\Development\github\Practice\C#Console\MyPractice\NLogExample\bin\Debug\NLogExample.exe.config
+C:\Development\github\Practice\C#Console\MyPractice\NLogExample\bin\Debug\NLogExample.exe
+C:\Development\github\Practice\C#Console\MyPractice\NLogExample\bin\Debug\NLogExample.pdb
+C:\Development\github\Practice\C#Console\MyPractice\NLogExample\bin\Debug\NLog.dll
+C:\Development\github\Practice\C#Console\MyPractice\NLogExample\bin\Debug\NLog.xml
+C:\Development\github\Practice\C#Console\MyPractice\NLogExample\obj\Debug\NLogExample.csprojResolveAssemblyReference.cache
+C:\Development\github\Practice\C#Console\MyPractice\NLogExample\obj\Debug\NLogExample.exe
+C:\Development\github\Practice\C#Console\MyPractice\NLogExample\obj\Debug\NLogExample.pdb

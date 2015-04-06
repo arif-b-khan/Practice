@@ -1,0 +1,6 @@
+C:\Development\github\Practice\C#Console\MyPractice\SetOperators\bin\Debug\SetOperators.exe.config
+C:\Development\github\Practice\C#Console\MyPractice\SetOperators\bin\Debug\SetOperators.exe
+C:\Development\github\Practice\C#Console\MyPractice\SetOperators\bin\Debug\SetOperators.pdb
+C:\Development\github\Practice\C#Console\MyPractice\SetOperators\obj\Debug\SetOperators.csprojResolveAssemblyReference.cache
+C:\Development\github\Practice\C#Console\MyPractice\SetOperators\obj\Debug\SetOperators.exe
+C:\Development\github\Practice\C#Console\MyPractice\SetOperators\obj\Debug\SetOperators.pdb
