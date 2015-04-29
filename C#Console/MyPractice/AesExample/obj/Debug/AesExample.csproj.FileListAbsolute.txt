@@ -1,0 +1,6 @@
+C:\Development\github\Practice\C#Console\MyPractice\AesExample\bin\Debug\AesExample.exe.config
+C:\Development\github\Practice\C#Console\MyPractice\AesExample\bin\Debug\AesExample.exe
+C:\Development\github\Practice\C#Console\MyPractice\AesExample\bin\Debug\AesExample.pdb
+C:\Development\github\Practice\C#Console\MyPractice\AesExample\obj\Debug\AesExample.exe
+C:\Development\github\Practice\C#Console\MyPractice\AesExample\obj\Debug\AesExample.pdb
+C:\Development\github\Practice\C#Console\MyPractice\AesExample\obj\Debug\AesExample.csprojResolveAssemblyReference.cache
