@@ -14,21 +14,29 @@ namespace AesExample
     {
         static void Main(string[] args)
         {
-            string plainText = "Hello world";
-            byte[] key = Convert.FromBase64String(ConfigurationManager.AppSettings["aesKey"]);
-            byte[] byteValue = Convert.FromBase64String(ConfigurationManager.AppSettings["aesValue"]);
-            //Console.WriteLine(Convert.FromBase64String(key));
-            //Console.WriteLine(Convert.FromBase64String(byteValue));
-
-            Task<String> mainTask = Task.Run<string>(() =>
+            string exitChar = string.Empty;
+            Console.WriteLine("Press x to exit");
+            do
             {
-                return Encrypt(plainText, key, byteValue).Result;
-            });
-            string cipherText = mainTask.Result;
-            Task<string> decTask = Task.Run<string>(() => Decrypt(cipherText, key, byteValue).Result);
-            string diCipherText = decTask.Result;
-            Console.WriteLine(cipherText);
-            Console.WriteLine(diCipherText);
+                Console.WriteLine("Enter phrase to encrypt");
+                string plainText = Console.ReadLine(); ;
+                byte[] key = Convert.FromBase64String(ConfigurationManager.AppSettings["aesKey"]);
+                byte[] byteValue = Convert.FromBase64String(ConfigurationManager.AppSettings["aesValue"]);
+                //Console.WriteLine(Convert.FromBase64String(key));
+                //Console.WriteLine(Convert.FromBase64String(byteValue));
+
+                Task<String> mainTask = Task.Run<string>(() =>
+                {
+                    return Encrypt(plainText, key, byteValue).Result;
+                });
+                string cipherText = mainTask.Result;
+                Console.WriteLine(cipherText);
+                exitChar = Console.ReadLine();
+            } while (exitChar != "x");
+
+            //Task<string> decTask = Task.Run<string>(() => Decrypt(cipherText, key, byteValue).Result);
+            //string diCipherText = decTask.Result;
+            //Console.WriteLine(diCipherText);
         }
 
         public static async Task<string> Encrypt(string plainText, byte[] key, byte[] value)
