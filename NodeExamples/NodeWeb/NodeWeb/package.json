@@ -1,0 +1,21 @@
+{
+  "name": "NodeWeb",
+  "version": "0.0.0",
+  "description": "NodeWeb",
+  "main": "server.js",
+  "author": {
+    "name": "administrator",
+    "email": ""
+  },
+  "devDependencies": {
+    "jasmine-core": "^2.2.0",
+    "karma": "*",
+    "karma-chrome-launcher": "^0.1.7",
+    "karma-firefox-launcher": "^0.1.4",
+    "karma-jasmine": "^0.3.5",
+    "karma-junit-reporter": "*",
+    "karma-ng-scenario": "*",
+    "karma-phantomjs-launcher": "^0.1.4",
+    "phantomjs": "*"
+  }
+}

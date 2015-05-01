@@ -9,14 +9,15 @@ namespace NLogExample
 {
     class Program
     {
+        
        static NLog.Logger logger = LogManager.GetLogger("MyLogger");
         static void Main(string[] args)
         {
-            logger.Debug("This is the message from console");
-            logger.Warn("warned");
-            logger.Info("info");
-            logger.Error("Error");
-            Console.ReadLine();
+            GlobalDiagnosticsContext.Set("ApplicationName", "NLogExample");
+            //logger.Debug("This is the message from console");
+            //logger.Warn("warned");
+            logger.Info("info", new Exception("Hello exception"));
+            //logger.Error("Error");
         }
     }
 }
