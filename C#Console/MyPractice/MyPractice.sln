@@ -41,6 +41,18 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UnityContainer", "UnityCont
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KatanaExample", "KatanaExample\KatanaExample.csproj", "{A143B419-0508-4791-AF36-B26D8C3580DB}"
 >>>>>>> 1b4cd0170f45da1b52579a3b92b083d9c1bcb4d1
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Patterns", "Patterns", "{BEBFA600-C829-4C9D-9A5D-4ECE8DB3B419}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommandPattern", "CommandPattern\CommandPattern.csproj", "{94705BF6-2EB1-422E-8662-41B96CFAAC82}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Linq", "Linq", "{9F107428-CC2F-4712-A766-C4502500C8A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SetOperators", "SetOperators\SetOperators.csproj", "{62DC92D6-BB3F-4A78-B6B2-EBA14F433ECD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Logging", "Logging", "{4C945511-47FD-4DF2-B6D3-EFC54F41AAC2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NLogExample", "NLogExample\NLogExample.csproj", "{9F3F7163-1ED6-497C-B308-7D9DFD3C8A4C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -121,15 +133,36 @@ Global
 		{A143B419-0508-4791-AF36-B26D8C3580DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A143B419-0508-4791-AF36-B26D8C3580DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A143B419-0508-4791-AF36-B26D8C3580DB}.Release|Any CPU.Build.0 = Release|Any CPU
+<<<<<<< HEAD
 >>>>>>> 1b4cd0170f45da1b52579a3b92b083d9c1bcb4d1
+=======
+		{94705BF6-2EB1-422E-8662-41B96CFAAC82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94705BF6-2EB1-422E-8662-41B96CFAAC82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94705BF6-2EB1-422E-8662-41B96CFAAC82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94705BF6-2EB1-422E-8662-41B96CFAAC82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62DC92D6-BB3F-4A78-B6B2-EBA14F433ECD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62DC92D6-BB3F-4A78-B6B2-EBA14F433ECD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62DC92D6-BB3F-4A78-B6B2-EBA14F433ECD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62DC92D6-BB3F-4A78-B6B2-EBA14F433ECD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F3F7163-1ED6-497C-B308-7D9DFD3C8A4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F3F7163-1ED6-497C-B308-7D9DFD3C8A4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F3F7163-1ED6-497C-B308-7D9DFD3C8A4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F3F7163-1ED6-497C-B308-7D9DFD3C8A4C}.Release|Any CPU.Build.0 = Release|Any CPU
+>>>>>>> 5494fbdd20133cd4c8f394da62019cc0108285f1
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
+<<<<<<< HEAD
 		{F1DF6DD4-CD3D-44DF-A8FA-88C5AD4A4CFF} = {BC55BC6C-1012-40F5-8A0E-D5DC036A9318}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		EnterpriseLibraryConfigurationToolBinariesPathV6 = packages\EnterpriseLibrary.Common.6.0.1304.0\lib\NET45
+=======
+		{94705BF6-2EB1-422E-8662-41B96CFAAC82} = {BEBFA600-C829-4C9D-9A5D-4ECE8DB3B419}
+		{62DC92D6-BB3F-4A78-B6B2-EBA14F433ECD} = {9F107428-CC2F-4712-A766-C4502500C8A3}
+		{9F3F7163-1ED6-497C-B308-7D9DFD3C8A4C} = {4C945511-47FD-4DF2-B6D3-EFC54F41AAC2}
+>>>>>>> 5494fbdd20133cd4c8f394da62019cc0108285f1
 	EndGlobalSection
 EndGlobal

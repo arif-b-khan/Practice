@@ -1,0 +1,5 @@
+C:\Development\github\Practice\C#Console\MyPractice\CommandPattern\bin\Debug\CommandPattern.exe.config
+C:\Development\github\Practice\C#Console\MyPractice\CommandPattern\bin\Debug\CommandPattern.exe
+C:\Development\github\Practice\C#Console\MyPractice\CommandPattern\bin\Debug\CommandPattern.pdb
+C:\Development\github\Practice\C#Console\MyPractice\CommandPattern\obj\Debug\CommandPattern.exe
+C:\Development\github\Practice\C#Console\MyPractice\CommandPattern\obj\Debug\CommandPattern.pdb
