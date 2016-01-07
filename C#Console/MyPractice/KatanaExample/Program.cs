@@ -29,7 +29,6 @@ namespace KatanaExample
     {
         public void Configuration(IAppBuilder app)
         {
-            //comment in configuration file.
             app.Use(async (env, next) =>
             {
                 Console.WriteLine("Request : " + env.Request.Path);
