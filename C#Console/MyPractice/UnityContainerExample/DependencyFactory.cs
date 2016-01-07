@@ -32,13 +32,17 @@ namespace UnityContainerExample
         static DependencyFactory()
         {
             var container = new UnityContainer();
+            container.LoadConfiguration();
+            //var section = (UnityConfigurationSection)ConfigurationManager.GetSection("unity");
+            //if (section != null)
+            //{
+            //    section.Configure(container);
+            //}
 
-            var section = (UnityConfigurationSection)ConfigurationManager.GetSection("unity");
-            if (section != null)
-            {
-                section.Configure(container);
-            }
-            _container = container;
+            //container.RegisterType<ICalculator, Calculator>()
+            //         .RegisterType<ILogger, Logger>()
+            //         .RegisterType<CalculatorService>();
+            Container = container;
         }
 
         /// <summary>

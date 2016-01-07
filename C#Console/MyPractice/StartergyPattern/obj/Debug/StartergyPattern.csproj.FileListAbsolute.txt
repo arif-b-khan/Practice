@@ -1,0 +1,6 @@
+D:\Development\Github\practice\C#Console\MyPractice\StartergyPattern\bin\Debug\StartergyPattern.exe.config
+D:\Development\Github\practice\C#Console\MyPractice\StartergyPattern\obj\Debug\StartergyPattern.csprojResolveAssemblyReference.cache
+D:\Development\Github\practice\C#Console\MyPractice\StartergyPattern\bin\Debug\StartergyPattern.exe
+D:\Development\Github\practice\C#Console\MyPractice\StartergyPattern\bin\Debug\StartergyPattern.pdb
+D:\Development\Github\practice\C#Console\MyPractice\StartergyPattern\obj\Debug\StartergyPattern.exe
+D:\Development\Github\practice\C#Console\MyPractice\StartergyPattern\obj\Debug\StartergyPattern.pdb

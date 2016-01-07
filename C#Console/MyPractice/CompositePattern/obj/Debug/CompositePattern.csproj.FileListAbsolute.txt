@@ -1,0 +1,6 @@
+D:\Development\Github\practice\C#Console\MyPractice\CompositePattern\bin\Debug\CompositePattern.exe.config
+D:\Development\Github\practice\C#Console\MyPractice\CompositePattern\bin\Debug\CompositePattern.exe
+D:\Development\Github\practice\C#Console\MyPractice\CompositePattern\bin\Debug\CompositePattern.pdb
+D:\Development\Github\practice\C#Console\MyPractice\CompositePattern\obj\Debug\CompositePattern.csprojResolveAssemblyReference.cache
+D:\Development\Github\practice\C#Console\MyPractice\CompositePattern\obj\Debug\CompositePattern.exe
+D:\Development\Github\practice\C#Console\MyPractice\CompositePattern\obj\Debug\CompositePattern.pdb

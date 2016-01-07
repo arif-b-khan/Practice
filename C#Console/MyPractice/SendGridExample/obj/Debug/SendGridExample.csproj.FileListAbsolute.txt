@@ -1,0 +1,8 @@
+D:\Development\Github\practice\C#Console\MyPractice\SendGridExample\bin\Debug\SendGridExample.exe.config
+D:\Development\Github\practice\C#Console\MyPractice\SendGridExample\bin\Debug\SendGridExample.exe
+D:\Development\Github\practice\C#Console\MyPractice\SendGridExample\bin\Debug\SendGridExample.pdb
+D:\Development\Github\practice\C#Console\MyPractice\SendGridExample\bin\Debug\SendGrid.SmtpApi.dll
+D:\Development\Github\practice\C#Console\MyPractice\SendGridExample\bin\Debug\SendGridMail.dll
+D:\Development\Github\practice\C#Console\MyPractice\SendGridExample\obj\Debug\SendGridExample.csprojResolveAssemblyReference.cache
+D:\Development\Github\practice\C#Console\MyPractice\SendGridExample\obj\Debug\SendGridExample.exe
+D:\Development\Github\practice\C#Console\MyPractice\SendGridExample\obj\Debug\SendGridExample.pdb

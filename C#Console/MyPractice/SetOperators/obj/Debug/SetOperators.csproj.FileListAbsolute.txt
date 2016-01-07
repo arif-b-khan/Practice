@@ -4,3 +4,15 @@ C:\Development\github\Practice\C#Console\MyPractice\SetOperators\bin\Debug\SetOp
 C:\Development\github\Practice\C#Console\MyPractice\SetOperators\obj\Debug\SetOperators.csprojResolveAssemblyReference.cache
 C:\Development\github\Practice\C#Console\MyPractice\SetOperators\obj\Debug\SetOperators.exe
 C:\Development\github\Practice\C#Console\MyPractice\SetOperators\obj\Debug\SetOperators.pdb
+D:\Development\Github\practice\C#Console\MyPractice\SetOperators\bin\Debug\SetOperators.exe.config
+D:\Development\Github\practice\C#Console\MyPractice\SetOperators\bin\Debug\SetOperators.exe
+D:\Development\Github\practice\C#Console\MyPractice\SetOperators\bin\Debug\SetOperators.pdb
+D:\Development\Github\practice\C#Console\MyPractice\SetOperators\bin\Debug\mscorlib.dll
+D:\Development\Github\practice\C#Console\MyPractice\SetOperators\bin\Debug\normidna.nlp
+D:\Development\Github\practice\C#Console\MyPractice\SetOperators\bin\Debug\normnfc.nlp
+D:\Development\Github\practice\C#Console\MyPractice\SetOperators\bin\Debug\normnfd.nlp
+D:\Development\Github\practice\C#Console\MyPractice\SetOperators\bin\Debug\normnfkc.nlp
+D:\Development\Github\practice\C#Console\MyPractice\SetOperators\bin\Debug\normnfkd.nlp
+D:\Development\Github\practice\C#Console\MyPractice\SetOperators\obj\Debug\SetOperators.csprojResolveAssemblyReference.cache
+D:\Development\Github\practice\C#Console\MyPractice\SetOperators\obj\Debug\SetOperators.exe
+D:\Development\Github\practice\C#Console\MyPractice\SetOperators\obj\Debug\SetOperators.pdb

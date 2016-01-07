@@ -3,3 +3,15 @@ C:\Development\github\Practice\C#Console\MyPractice\CommandPattern\bin\Debug\Com
 C:\Development\github\Practice\C#Console\MyPractice\CommandPattern\bin\Debug\CommandPattern.pdb
 C:\Development\github\Practice\C#Console\MyPractice\CommandPattern\obj\Debug\CommandPattern.exe
 C:\Development\github\Practice\C#Console\MyPractice\CommandPattern\obj\Debug\CommandPattern.pdb
+D:\Development\Github\practice\C#Console\MyPractice\CommandPattern\bin\Debug\CommandPattern.exe.config
+D:\Development\Github\practice\C#Console\MyPractice\CommandPattern\bin\Debug\CommandPattern.exe
+D:\Development\Github\practice\C#Console\MyPractice\CommandPattern\bin\Debug\CommandPattern.pdb
+D:\Development\Github\practice\C#Console\MyPractice\CommandPattern\bin\Debug\mscorlib.dll
+D:\Development\Github\practice\C#Console\MyPractice\CommandPattern\bin\Debug\normidna.nlp
+D:\Development\Github\practice\C#Console\MyPractice\CommandPattern\bin\Debug\normnfc.nlp
+D:\Development\Github\practice\C#Console\MyPractice\CommandPattern\bin\Debug\normnfd.nlp
+D:\Development\Github\practice\C#Console\MyPractice\CommandPattern\bin\Debug\normnfkc.nlp
+D:\Development\Github\practice\C#Console\MyPractice\CommandPattern\bin\Debug\normnfkd.nlp
+D:\Development\Github\practice\C#Console\MyPractice\CommandPattern\obj\Debug\CommandPattern.csprojResolveAssemblyReference.cache
+D:\Development\Github\practice\C#Console\MyPractice\CommandPattern\obj\Debug\CommandPattern.exe
+D:\Development\Github\practice\C#Console\MyPractice\CommandPattern\obj\Debug\CommandPattern.pdb

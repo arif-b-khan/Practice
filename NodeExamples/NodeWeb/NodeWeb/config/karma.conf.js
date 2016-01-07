@@ -11,7 +11,7 @@ module.exports = function (config) {
         exclude: ['**/*scenario.js'],
         autoWatch : true,
         frameworks: ['jasmine'],
-        browsers:['Chrome'],
+        browsers:['Firefox'],
         plugins : [
             'karma-junit-reporter',
             'karma-chrome-launcher',

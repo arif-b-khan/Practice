@@ -1,0 +1,6 @@
+D:\Development\Github\practice\C#Console\MyPractice\PerformanceCatExample\bin\Debug\PerformanceCatExample.exe.config
+D:\Development\Github\practice\C#Console\MyPractice\PerformanceCatExample\bin\Debug\PerformanceCatExample.exe
+D:\Development\Github\practice\C#Console\MyPractice\PerformanceCatExample\bin\Debug\PerformanceCatExample.pdb
+D:\Development\Github\practice\C#Console\MyPractice\PerformanceCatExample\obj\Debug\PerformanceCatExample.csprojResolveAssemblyReference.cache
+D:\Development\Github\practice\C#Console\MyPractice\PerformanceCatExample\obj\Debug\PerformanceCatExample.exe
+D:\Development\Github\practice\C#Console\MyPractice\PerformanceCatExample\obj\Debug\PerformanceCatExample.pdb

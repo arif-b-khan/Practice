@@ -39,6 +39,7 @@
     <Compile Include="app\js\services.js" />
     <Compile Include="config\karma-e2e.conf.js" />
     <Compile Include="config\karma.conf.js" />
+    <Compile Include="config\karma.custom.js" />
     <Compile Include="Scripts\angular-animate.js" />
     <Compile Include="Scripts\angular-animate.min.js" />
     <Compile Include="Scripts\angular-cookies.js" />
@@ -79,8 +80,8 @@
     <Content Include="test\scripts\test.bat" />
     <Content Include="test\scripts\test.sh" />
     <Content Include="test\scripts\watchr.rb" />
-    <None Include="Scripts\jquery.validate-vsdoc.js" />
-    <None Include="Scripts\jquery-1.10.2.intellisense.js" />
+    <Compile Include="Scripts\jquery.validate-vsdoc.js" />
+    <Compile Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Compile Include="Scripts\jquery-1.10.2.js" />
     <Compile Include="Scripts\jquery-1.10.2.min.js" />
     <Compile Include="Scripts\jquery.validate.js" />
