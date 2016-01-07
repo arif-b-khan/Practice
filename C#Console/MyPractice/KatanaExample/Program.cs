@@ -36,7 +36,7 @@ namespace KatanaExample
                 Console.WriteLine("Response: " + env.Response.StatusCode);
             });
             
-            ConfigureWebApi(app);
+            ConfigureWebApi(app); //adding conflicting comment from master
 
             app.UseHelloComponent();
         }
