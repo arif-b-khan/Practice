@@ -1,4 +1,5 @@
-﻿using System;
+﻿using ObserverPatternEx.ObserverExample1;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,6 +11,7 @@ namespace ObserverPatternEx
     {
         static void Main(string[] args)
         {
+            Run.RunMain();
         }
     }
 }
