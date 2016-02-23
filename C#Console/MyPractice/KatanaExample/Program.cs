@@ -24,7 +24,7 @@ namespace KatanaExample
     //        }
     //    }
     //}
-    [assembly: OwinStartup("TestStartup", typeof(KatanaExample.MyStartup))]
+    //[assembly: OwinStartup("TestStartup", typeof(KatanaExample.MyStartup))]
     public class MyStartup
     {
         public void Configuration(IAppBuilder app)
